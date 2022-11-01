@@ -1,0 +1,26 @@
+{
+  "name": "daily-saving-stats",
+  "version": "1.0.0",
+  "description": "Daily Saving Stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitonga123/daily-saving-stats.git"
+  },
+  "keywords": [
+    "Daily",
+    "Savings",
+    "Stats",
+    "Google",
+    "Sheet"
+  ],
+  "author": "Daniel Mutwiri & Daily Saving Co. Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitonga123/daily-saving-stats/issues"
+  },
+  "homepage": "https://github.com/gitonga123/daily-saving-stats#readme"
+}
