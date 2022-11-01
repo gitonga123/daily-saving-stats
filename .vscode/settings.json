@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 5438,
+            "driver": "PostgreSQL",
+            "name": "Daily Savings Connection",
+            "group": "PG ",
+            "database": "daily_savings",
+            "username": "postgres",
+            "password": "newPassword"
+        }
+    ]
+}
